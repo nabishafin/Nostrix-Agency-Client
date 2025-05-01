@@ -1,0 +1,42 @@
+[
+    {
+        "image": "../src/assets/blog-2-Crafting.webp",
+        "category": "Design",
+        "date": "01 January 2024",
+        "title": "Crafting User Interfaces That Work",
+        "description": "A quick dive into the best practices for designing simple and effective UI layouts.",
+        "link": "#"
+    },
+    {
+        "image": "../src/assets/The Power of Collaboration in Remote Teams.jpg",
+        "category": "Teamwork",
+        "date": "05 February 2024",
+        "title": "The Power of Collaboration in Remote Teams",
+        "description": "How remote teams can still be creative and productive using the right tools and mindset.",
+        "link": "#"
+    },
+    {
+        "image": "../src/assets/Simple SEO Hacks for Beginners.webp",
+        "category": "Marketing",
+        "date": "12 March 2024",
+        "title": "Simple SEO Hacks for Beginners",
+        "description": "Boost your visibility online with these easy and effective SEO strategies.",
+        "link": "#"
+    },
+    {
+        "image": "../src/assets/React-vs vue.jpg",
+        "category": "Development",
+        "date": "18 April 2024",
+        "title": "React vs Vue: Which One Should You Choose?",
+        "description": "A head-to-head comparison between two of the most popular frontend frameworks.",
+        "link": "#"
+    },
+    {
+        "image": "../src/assets/Building Your First Mobile App from Scratch.png",
+        "category": "Mobile Apps",
+        "date": "25 May 2024",
+        "title": "Building Your First Mobile App from Scratch",
+        "description": "Everything you need to know to get started with mobile app development.",
+        "link": "#"
+    }
+]
